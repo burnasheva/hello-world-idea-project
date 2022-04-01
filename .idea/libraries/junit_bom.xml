@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="junit-bom">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/junit/junit-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/org/junit/jupiter" />
+      <root url="file://$MAVEN_REPOSITORY$/org/junit/platform" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/junit/junit-bom" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/junit/jupiter" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/junit/platform" recursive="false" />
+  </library>
+</component>
